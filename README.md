@@ -11,7 +11,7 @@ Este repositório contém o progresso da minha jornada na trilha de **Back-end c
 * **Testes:** Jest
 
 ## 📚 Conteúdo da Formação
-Durante a formação, explorei os seguintes tópicos:
+Durante a formação, explorarei os seguintes tópicos:
 1.  **Fundamentos de Node.js:** Event Loop, File System e módulos nativos.
 2.  **APIs REST:** Criação de rotas, middlewares, tratamento de erros e status codes.
 3.  **ORM & Bancos de Dados:** Modelagem de dados, migrações e associações.
@@ -22,11 +22,11 @@ Durante a formação, explorei os seguintes tópicos:
 Os projetos aqui contidos foram desenvolvidos no meu setup principal:
 * **Processador:** Ryzen 5 5600
 * **RAM:** 32GB DDR4
-* **OS:** Windows/WSL2 (ou seu SO atual)
+* **OS:** Windows/WSL2
 * **Monitor:** AOC 24" 180hz (Principal) | LG 24" Vertical (Documentação/Terminal)
 
 ## 📂 Projetos em Destaque
-*(Dica: Link os subdiretórios aqui conforme você for terminando os cursos)*
+*(Link os subdiretórios aqui conforme você for terminando os cursos)*
 * [API de Livraria] - CRUD completo com Sequelize e SQLite.
 * [API de Escola] - Sistema de matrículas com validações e segurança.
 
