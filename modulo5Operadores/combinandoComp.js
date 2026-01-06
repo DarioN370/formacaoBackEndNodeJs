@@ -38,7 +38,6 @@ if (!estaChovendo) {
 };
 
 // COMBINANDO TODOS OS OPERADORES
-
 let idadeFan = 20;
 let possuiIngresso = true;
 let entradaPermitida = (idadeFan >= 18 && possuiIngresso);
