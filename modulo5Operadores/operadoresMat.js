@@ -1,3 +1,10 @@
+// Ordem de prioridade no JavaScript:
+// Parênteses ( )
+// Multiplicação *, Divisão /
+// Adição +, Subtração -
+// Comparações (>, <, >=, <=, ==, !=)
+// Operadores lógicos (!, &&, ||)
+
 const numUm = 4;
 const numDois = 8;
 
